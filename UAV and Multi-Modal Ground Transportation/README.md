@@ -2,6 +2,7 @@
 
 ## Repository Structure
 
+```
 UAV and Multi-Modal Ground Transportation/
 ├── data/                        # External data links + metadata
 │   ├── metadata/                # Data schema, layer IDs, CRS, update logs
@@ -19,6 +20,7 @@ UAV and Multi-Modal Ground Transportation/
 ├── dashboards/                  # Interactive platform 
 │
 └── docs/                        # Project documentation
+```
 
 ## Tools and Technologies
 
