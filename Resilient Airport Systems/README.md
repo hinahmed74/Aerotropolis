@@ -2,6 +2,7 @@
 
 ## Repository Structure
 
+```
 Resilient Airport Systems/
 ├── data/                        # External data links + metadata
 │   ├── metadata/                # Data schema, layer IDs, CRS, update logs
@@ -13,12 +14,11 @@ Resilient Airport Systems/
 │   └── visualization/           # Charts, map layers, heatmaps
 │
 ├── models/                      # Simulation models
-│   ├── urban_risk/              # ABM for evacuation
-│   └── urban_regeneration/      # Urban form, carbon modeling, energy simulation
 │
 ├── dashboards/                  # Interactive platform 
 │
 └── docs/                        # Project documentation
+```
 
 ## Tools and Technologies
 

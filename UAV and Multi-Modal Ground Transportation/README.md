@@ -14,8 +14,6 @@ UAV and Multi-Modal Ground Transportation/
 │   └── visualization/           # Charts, map layers, heatmaps
 │
 ├── models/                      # Simulation models
-│   ├── urban_risk/              # ABM for evacuation
-│   └── urban_regeneration/      # Urban form, carbon modeling, energy simulation
 │
 ├── dashboards/                  # Interactive platform 
 │
